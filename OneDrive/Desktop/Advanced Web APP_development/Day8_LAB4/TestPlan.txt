@@ -1,0 +1,13 @@
+DocHunt – Test Plan
+
+Project Title: DocHunt – A Doctor Finder Application
+
+Team Members:
+Sakshi Sakshi (23099047)
+Preet Patel (23094176)
+Ved Patel (23094884)
+Piyush Piyush (22050267)
+
+Instructor: Nawaz Chowdhury
+
+Course: Adv Web Applications (CSD230)
